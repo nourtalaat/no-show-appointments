@@ -1,0 +1,4 @@
+- Pandas's documentation: https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+- Seaborn's documentation: https://seaborn.pydata.org/api.html
+- Matplotlib's documentation: https://matplotlib.org/stable/contents.html
+- Brazil's weather cycle: https://seasonsyear.com/Brazil
